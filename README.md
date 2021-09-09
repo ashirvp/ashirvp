@@ -6,7 +6,9 @@ people, and building community.
 Find me around the web 🌎:
 
 creating technology with yumlux   📫 
+
 Tinkering with interactions on Codepen 🏓
+
 Sharing updates on LinkedIn 💼
 <!--
 **ashirvp/ashirvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
