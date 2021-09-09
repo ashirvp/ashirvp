@@ -1,9 +1,9 @@
-### Hi, I'm Ashir 👋🏾 👩🏾‍💻 �
+<h2> Hi, I'm Ashir 👋🏾 👩🏾‍💻 �</h2>
 
 I'm an engineering student who is passionate about making contributing to open-source more approachable, creating technology to elevate
 people, and building community. 
 
-<h4>Find me around the web🌎:</h4> 
+<h2>Find me around the web🌎:</h2> 
 
 creating technology with yumlux   📫 
 
