@@ -6,7 +6,7 @@
 
 <h2>Find me around the web🌎:</h2> 
 <ul>
- <li>creating technology with <a href="http://yumlux.live/>yumlux</a> 📫 </li>
+ <li>creating technology with <a href="http://yumlux.live/">yumlux</a> 📫 </li>
   <li>Tinkering with interactions on Codepen 🏓</li>
   <li>Sharing updates on LinkedIn 💼</li>
 </ul>
