@@ -1,5 +1,5 @@
 
-<img src="1.png">
+<img src="2.png">
 
 I'm an engineering student who is passionate about making contributing to open-source more approachable, creating technology to elevate
 people, and building community. 
