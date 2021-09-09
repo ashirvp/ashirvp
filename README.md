@@ -8,7 +8,7 @@
 <ul>
  <li>creating innovations with <a href="http://yumlux.live/">yumlux</a> 📫 </li>
   <li>Tinkering with interactions on Codepen 🏓</li>
-  <li>Sharing updates on LinkedIn 💼</li>
+  <li>Sharing updates on <a href="https://www.linkedin.com/in/ashirvp/">LinkedIn</a> 💼</li>
 </ul>
 <!--
 
