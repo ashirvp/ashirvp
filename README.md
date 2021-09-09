@@ -1,4 +1,3 @@
-<h2> Hi, I'm Ashir 👋🏾 👩🏾‍💻 �</h2>
 
 <img src="1.png">
 
