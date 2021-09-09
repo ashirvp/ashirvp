@@ -3,7 +3,7 @@
 I'm an engineering student who is passionate about making contributing to open-source more approachable, creating technology to elevate
 people, and building community. 
 
-<h3>Find me around the web🌎:</h3> 
+<h4>Find me around the web🌎:</h4> 
 
 creating technology with yumlux   📫 
 
