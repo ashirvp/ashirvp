@@ -2,8 +2,8 @@
 
 I'm an electrical engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate
 people, and building community. 
-<span style="font-family: 'Lucida Console';">foo</span>
-Find me around the web 🌎:
+
+<h4>Find me around the web</h4> 🌎:
 
 creating technology with yumlux   📫 
 
