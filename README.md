@@ -1,8 +1,7 @@
 
 <img src="2.png">
 
-<p>I'm an engineering student who is passionate about making contributing to open-source more approachable,creating technology to
- elevate people.</p>
+<p>I'm an engineering student who is passionate about making contributing to open-source more approachable.</p>
 
 <h2>Find me around the web🌎:</h2> 
 <ul>
