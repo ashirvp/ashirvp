@@ -24,8 +24,6 @@ Always tinkering, always learning. 🤖✨
 </li>
 </ul>
 
-<p><strong>🌈 Fun Fact:</strong> I treat "console.log" like therapy 🧘</p>
-
 ---
 
 <p align="center">Let’s create magic together 💫</p>
