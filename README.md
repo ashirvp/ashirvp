@@ -21,7 +21,7 @@ Always tinkering, always learning. 🤖✨
 <ul>
  <li>🚀 <a href="http://yumlux.live/" target="_blank">Building at Yumlux</a></li>
  <li>🧪 Tinkering on Codepen</li>
- <li>💼 <a href="https://www.linkedin.com/in/ashirvp/" target="_blank">LinkedIn</a> & <a href="https://www.instagram.com/_ashir._/" target="_blank">Instagram</a></li>
+</li>
 </ul>
 
 <p><strong>🌈 Fun Fact:</strong> I treat "console.log" like therapy 🧘</p>
