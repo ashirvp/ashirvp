@@ -25,19 +25,33 @@
 
 ### ⚡ About Me
 
-```
-const ashir = {
-  currentlyStudying: "M.Sc. Autonomy Technologies (AI & Robotics) @ FAU Erlangen-Nürnberg",
-  background: ["Product Discovery", "MVP Development", "Full-Stack Engineering"],
-  pastRoles: [
-    "Digital Innovation Intern @ ZOLLHOF Tech Incubator",
-    "Head of Technology @ Kite India",
-    "Full Stack Web Developer @ Yumlux"
-  ],
-  mission: "Turning complex technical problems into real, usable products",
-  mode: "always building, always learning"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Currently Studying**
+M.Sc. Autonomy Technologies (AI & Robotics)
+@ FAU Erlangen-Nürnberg
+
+**🧭 Background**
+Product Discovery · MVP Development · Full-Stack Engineering
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Past Roles**
+- Digital Innovation Intern @ ZOLLHOF Tech Incubator
+- Head of Technology @ Kite India
+- Full Stack Web Developer @ Yumlux
+
+**🎯 Mission**
+Turning complex technical problems into real, usable products
+
+</td>
+</tr>
+</table>
+
+> 🔥 **Always building, always learning.**
 
 I bridge product thinking and engineering — from running 20+ stakeholder interviews to shipping the code myself. I've led cross-functional teams, launched an AI-driven Asset Optimizer for the Siemens Marketplace, and scaled a travel-tech platform to 9,000+ trip plans and 3,000+ global users.
 
