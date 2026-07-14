@@ -35,6 +35,9 @@ M.Sc. Autonomy Technologies (AI & Robotics)
 **🧭 Background**
 Product Discovery · MVP Development · Full-Stack Engineering
 
+**🔌 Foundation**
+B.Tech Electrical & Electronics Engineering (VIT Vellore) — Control Systems, Power Electronics, VLSI, Embedded IoT
+
 </td>
 <td width="50%" valign="top">
 
@@ -67,8 +70,8 @@ I bridge product thinking and engineering — from running 20+ stakeholder inter
 
 ### 🚀 Projects
 
-- **IoT-based Firefighting Robot** — Unmanned emergency-response vehicle, cutting response time by 30%
-- **IoT-based Garbage Monitoring System** — Arduino + cloud dashboard for sanitation teams, reducing workload by 20%
+- **IoT-based Firefighting Robot** — Unmanned emergency-response vehicle with embedded sensors and remote control circuitry, cutting response time by 30%
+- **IoT-based Garbage Monitoring System** — Arduino + ultrasonic sensors feeding a cloud-based analytics dashboard, reducing worker workload by 20% for sanitation teams
 
 ---
 
@@ -86,6 +89,15 @@ I bridge product thinking and engineering — from running 20+ stakeholder inter
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF595E?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**⚡ Electrical & Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-6A4C93?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-00B4D8?style=for-the-badge&logo=internetcomputer&logoColor=white)
 
 </div>
 
