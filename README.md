@@ -68,12 +68,6 @@ I bridge product thinking and engineering — from running 20+ stakeholder inter
 
 ---
 
-### 🚀 Projects
-
-- **IoT-based Firefighting Robot** — Unmanned emergency-response vehicle with embedded sensors and remote control circuitry, cutting response time by 30%
-- **IoT-based Garbage Monitoring System** — Arduino + ultrasonic sensors feeding a cloud-based analytics dashboard, reducing worker workload by 20% for sanitation teams
-
----
 
 ### 🛠 Tech I Love
 
