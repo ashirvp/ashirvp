@@ -1,116 +1,222 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ASHIR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Robotics%20%7C%20Product%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-# Hi there, I'm Ashir 👋
-
-### AI & Robotics @ FAU · Product Builder · Full-Stack Developer
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5BC0BE&center=true&vCenter=true&width=650&lines=Building+AI-driven+products+from+0+to+1;Led+a+20-person+team+at+Kite+India;Shipped+90%2B+client+products+at+Yumlux;Currently+exploring+Autonomy+%40+FAU+Erlangen)
+<a href="https://ashirvp.me">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=5BC0BE&center=true&vCenter=true&width=750&height=70&lines=Building+AI-driven+products+from+0+%E2%86%92+1;AI+%26+Robotics+Engineer+%F0%9F%A4%96;Product+Builder+%7C+Full-Stack+Developer;Turning+ideas+into+real-world+products+%F0%9F%9A%80;Always+building.+Always+learning." alt="Typing SVG" />
+</a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashirvp.me-5BC0BE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashirvp.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashirvp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashirvp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashirkerala@gmail.com)
+<a href="https://ashirvp.me">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ashirvp.me-5BC0BE?style=for-the-badge"/>
+</a>
+<a href="https://linkedin.com/in/ashirvp">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ashirvp">
+<img src="https://img.shields.io/badge/GitHub-ashirvp-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:ashirkerala@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ashirvp&label=PROFILE+VIEWS&color=5BC0BE&style=flat-square" />
 
 </div>
 
 ---
 
-### ⚡ About Me
+## 🧠 Who Am I?
+
+```text
+AI & Robotics Engineer
+        +
+Product Builder
+        +
+Full-Stack Developer
+        ↓
+Turning complex problems into usable products.
+```
+
+I'm passionate about building at the intersection of **AI, robotics, software, and product**.
+
+I enjoy taking ideas from **0 → 1** — discovering problems, talking to users, designing solutions, building MVPs, and shipping products.
+
+🎓 **M.Sc. AI & Robotics** — FAU Erlangen-Nürnberg
+⚡ **B.Tech Electrical & Electronics Engineering** — VIT Vellore
+
+---
+
+## 🚀 What I've Built
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-** Education**
-M.Sc. AI & Robotics — FAU Erlangen-Nürnberg
-B.Tech Electrical & Electronics Engineering — VIT Vellore
+### 🏭 AI × Industry
 
-**🧭 Background**
-Product Discovery · MVP Development · Full-Stack Engineering
+**AI Asset Optimizer — Siemens**
+
+Led product discovery and MVP development for an AI-driven industrial solution, from stakeholder interviews to a validated product concept.
+
+`AI` `Product` `Industrial Tech`
 
 </td>
-<td width="50%" valign="top">
 
-**💼 Past Roles**
-- Digital Innovation Intern @ ZOLLHOF Tech Incubator
-- Head of Technology @ Kite India
-- Full Stack Web Developer @ Yumlux
-- Founder's Associate - Tech @ DE-ORB
+<td width="50%">
 
-**🎯 Mission**
-Turning complex technical problems into real, usable products
+### ✈️ Travel × Technology
+
+**Kite India**
+
+Built and scaled an AI-powered travel platform with **9,000+ trip plans** and **3,000+ users**, while leading a **20-person team**.
+
+`AI` `TravelTech` `Leadership`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Product Development
+
+**Growio**
+
+Worked across full-stack development and delivered **90+ client products** with a **98% on-time delivery rate**.
+
+`React` `Node.js` `AWS`
+
+</td>
+
+<td width="50%">
+
+### 🛸 AI × Robotics
+
+**DE-ORB**
+
+Working on passive multi-sensor intelligence and AI-driven systems for real-world autonomous applications.
+
+`AI` `Sensors` `Robotics`
 
 </td>
 </tr>
 </table>
 
-> 🔥 **Always building, always learning.**
-
-I bridge product thinking and engineering — from running 20+ stakeholder interviews to shipping the code myself. I've led cross-functional teams, launched an AI-driven Asset Optimizer for the Siemens Marketplace, and scaled a travel-tech platform to 9,000+ trip plans and 3,000+ global users.
+</div>
 
 ---
 
-### 💼 Experience Snapshot
-
-- 🏭 **ZOLLHOF – Tech Incubator** — Led product discovery for an AI Asset Optimizer for Siemens, from user research to a validated MVP
-- ✈️ **Kite India** — Head of Technology; owned the full product lifecycle for an AI-based travel platform, leading a 20-member team
-- 💻 **Yumlux** — Full Stack Web Developer; delivered 90+ client products with 98% on-time delivery
-- 🖥️ **Start Nuremberg** — IT Team lead, building automation tools that cut repetitive work for 20+ teammates
-
----
-
-
-### 🛠 Tech I Love
+## 📊 By The Numbers
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FF6363?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1982C4?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3D348B?style=for-the-badge&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF595E?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**⚡ Electrical & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-6A4C93?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Systems-00B4D8?style=for-the-badge&logo=internetcomputer&logoColor=white)
+<img src="https://img.shields.io/badge/90%2B-Products%20Shipped-5BC0BE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/20%2B-Team%20Members%20Led-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/9K%2B-Trip%20Plans%20Created-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3K%2B-Users%20Reached-5BC0BE?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 🌍 Find Me Online
+## ⚙️ My Tech Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashirvp.me-5BC0BE?style=for-the-badge)](https://ashirvp.me)
-[![Yumlux](https://img.shields.io/badge/🚀_Built_at-Yumlux-FF6363?style=for-the-badge)](http://yumlux.live/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashirvp)
+### 🤖 AI & Robotics
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,ros" />
+
+<br><br>
+
+### 💻 Software Engineering
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,docker,aws,git" />
+
+<br><br>
+
+### ⚡ Electrical & Embedded
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab" />
 
 </div>
 
 ---
 
+## 🧩 What I Like Working On
+
 <div align="center">
 
-### 💫 Let's create magic together
+`🤖 Artificial Intelligence`
+`🦾 Robotics & Autonomous Systems`
+`🧠 Agentic AI`
+`👁️ Computer Vision`
+`📡 Sensor Fusion`
+`🏭 Industrial Automation`
+`💻 Full-Stack Applications`
+`🚀 0 → 1 Product Development`
 
-<sub>Open to conversations on product, AI, and robotics — feel free to explore, star, or fork anything you find here!</sub>
+</div>
+
+---
+
+## 💼 Experience
+
+```diff
++ ZOLLHOF Tech Incubator
+  Digital Innovation · AI · Product Discovery
+
++ Kite India
+  Head of Technology · AI TravelTech · Team Leadership
+
++ Growio
+  Full-Stack Developer · 90+ Products
+
++ DE-ORB
+  Founder's Associate – Tech · AI · Robotics · Sensor Systems
+
++ START Nuremberg
+  IT Team Lead · Automation · Software
+```
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://ashirvp.me">
+<img src="https://img.shields.io/badge/🌐%20Website-ashirvp.me-5BC0BE?style=for-the-badge"/>
+</a>
+
+<a href="https://growio.site">
+<img src="https://img.shields.io/badge/🚀%20Growio-growio.site-FF6363?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/ashirvp">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Ashir%20VP-0A66C2?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Build. Break. Learn. Repeat.
+
+*"The best way to predict the future is to build it."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>
