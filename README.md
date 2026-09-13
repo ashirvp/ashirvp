@@ -29,14 +29,14 @@
 <td width="50%" valign="top">
 
 **🎓 Currently Studying**
-M.Sc. Autonomy Technologies (AI & Robotics)
+M.Sc. AI & Robotics
 @ FAU Erlangen-Nürnberg
 
 **🧭 Background**
 Product Discovery · MVP Development · Full-Stack Engineering
 
 **🔌 Foundation**
-B.Tech Electrical & Electronics Engineering (VIT Vellore) — Control Systems, Power Electronics, VLSI, Embedded IoT
+B.Tech Electrical & Electronics Engineering (VIT Vellore) 
 
 </td>
 <td width="50%" valign="top">
@@ -45,6 +45,7 @@ B.Tech Electrical & Electronics Engineering (VIT Vellore) — Control Systems, P
 - Digital Innovation Intern @ ZOLLHOF Tech Incubator
 - Head of Technology @ Kite India
 - Full Stack Web Developer @ Yumlux
+- Founder's Associate - Tech @ DE-ORB
 
 **🎯 Mission**
 Turning complex technical problems into real, usable products
@@ -61,10 +62,10 @@ I bridge product thinking and engineering — from running 20+ stakeholder inter
 
 ### 💼 Experience Snapshot
 
-- 🏭 **ZOLLHOF – Tech Incubator** — Led product discovery for an AI Asset Optimizer, from user research to a validated MVP
+- 🏭 **ZOLLHOF – Tech Incubator** — Led product discovery for an AI Asset Optimizer for Siemens, from user research to a validated MVP
 - ✈️ **Kite India** — Head of Technology; owned the full product lifecycle for an AI-based travel platform, leading a 20-member team
 - 💻 **Yumlux** — Full Stack Web Developer; delivered 90+ client products with 98% on-time delivery
-- 🖥️ **Start Nuremberg** — IT Team volunteer, building automation tools that cut repetitive work for 20+ teammates
+- 🖥️ **Start Nuremberg** — IT Team lead, building automation tools that cut repetitive work for 20+ teammates
 
 ---
 
