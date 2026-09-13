@@ -5,7 +5,7 @@
 
 # Hi there, I'm Ashir 👋
 
-### AI & Robotics Master's Student · Product Builder · Full-Stack Developer
+### AI & Robotics @ FAU · Product Builder · Full-Stack Developer
 
 <br>
 
@@ -28,15 +28,11 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Currently Studying**
-M.Sc. AI & Robotics
-@ FAU Erlangen-Nürnberg
-
+**🎓 Education**
+M.Sc. AI & Robotics @ FAU Erlangen-Nürnberg
+B.Tech Electrical & Electronics Engineering @ VIT Vellore 
 **🧭 Background**
 Product Discovery · MVP Development · Full-Stack Engineering
-
-**🔌 Foundation**
-B.Tech Electrical & Electronics Engineering (VIT Vellore) 
 
 </td>
 <td width="50%" valign="top">
