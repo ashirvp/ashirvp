@@ -28,11 +28,10 @@
 <tr>
 <td width="50%" valign="top">
 
-🎓 Education
+** Education**
 M.Sc. AI & Robotics — FAU Erlangen-Nürnberg
 B.Tech Electrical & Electronics Engineering — VIT Vellore
 
-</td> <td width="50%" valign="top">
 **🧭 Background**
 Product Discovery · MVP Development · Full-Stack Engineering
 
